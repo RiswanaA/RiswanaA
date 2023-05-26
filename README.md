@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiswanaA
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Ruby on Rails, React,Java Springboot and Node.js
+- 🌱 I’m currently working on React JS, Ruby on Rails,Java Springboot and Node.js
 - 💞️ I’m looking to collaborate on learning new tech stacks
 - 📫 How to reach me ...
 
