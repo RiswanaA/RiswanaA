@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiswanaA
 - 👀 I’m interested in coding
-- 🌱 I’m currently working on React JS, Ruby on Rails,Java Springboot and Node.js
+- 🌱 I’m currently working on React JS, MongoDB, PostgreSQL, MySQL, Ruby on Rails,Java Springboot and Node.js
 - 💞️ I’m looking to collaborate on learning new tech stacks and stay updated in the tech industry.
 - 📫 How to reach me ...
 
